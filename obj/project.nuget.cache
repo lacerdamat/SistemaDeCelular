@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "knEKQ15+EnAvRJdYbcWWwiTrEenSbMGgYASIwrE1v0uFGgWYO4ZimmBdSsj1gyb0zMVjTLSfRbEHEno8s8u63w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus\\Programação\\CSharp.Projs\\sistemaDeCelular\\sistemaDeCelular.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
